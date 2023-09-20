@@ -1,0 +1,73 @@
+# Soft Skills
+- Communication: Written, Verbal, and Active Listening
+    - Write clear emails, technical documentation, reports
+    - Translate the technical to non-technical people
+    - Actively listen to your clients
+- Team Collab: Interpersonal, Conflict Resolution, Feedback
+    - Build and maintain relationships
+    - Agreeing to disagree; manage conflicts and facilitate resolution 
+    - Know how to take and give constructive feedback gracefully
+- Negotiation
+    - Balance stakeholders and come to agreements in a reasonable time
+    - Communicate the reasons: Why?
+        - Side note: add buffers to project planning
+- Resilience, EQ, and Stress
+    - Focus and maintain performance under pressure
+    - Cope effectively
+    - Manage yours and others emotions
+        - Take time away if needed
+
+# Taking Risks
+- Know how to define your risks: what is reasonable? what is reckless?
+    - Example: Proposed move to India -> A good opportunity even though no one wanted to take it 
+- Can accelerate career growth
+- Innovate and opportunities to lead
+- Develop personally, overcome fear of uncertainty
+    - Know about yourself, easier to apply yourself elsewhere
+- Consider the pitfalls:
+    - Financial: failed ventures can const 
+    - Emotional: emotionally painful to fail 
+    - Career Risks:
+        - Switching to completely new technologies without background
+        - Joining tech startups which are in the early stages
+        - Leaving stability to work freelance
+        - Taking gap years to learn or find alternative paths
+- Research before any changes
+- Seek mentorship and guidance
+    - Note: Other people's advice is only advisory, decision rests on you 
+    - Build a support network
+- Mitigate Risks:
+    - Lifelong learning and develop new skills
+    - Network and build relationships
+- Embrace Failure:
+    - Analyse amd extract lessons
+    - Growth mindset: challenges help you learn 
+- Timing: Risks may be worth taking now/later, depending on the market
+    - Consider the impact of risk taking on your life
+- Intuition vs Analysis: Balance cognitive biases, gut feelings, and data-driven decisions
+
+# Know the Business
+- Align technology solutions with business goals
+- Use tech to drive compnay growth
+- Increase your relevance:
+    - Tech professionals are more valuable if they understand the core operations of the compnay
+    - Bridge the gap between non-technical personnel and technical personnel - technical communication 
+        - "Speak their language"
+- Improve Communications
+    - Understanding business requirements helps clarify tech requirements
+- Risk management: identify vulnerabilities that can be fixed with tech solutions 
+    - Ensure compliance with regulations, specifically for the region you're operating in 
+- Futureproof the Business:
+    - Anticipate industry trends
+    - Recommend long-term improvements in the tech space
+
+# Interviews
+- Portfolios:
+    - LeetCode, HackerRank
+    - GitHub projects
+    - Release apps
+    - Contribute to SO/OSS projects
+    - Learn new programming toolsets
+- Network and build relationships:
+    - Use LinkedIn, find and connect with alumni and professionals 
+    - Attend events and conferences which interest you or are related to your goals
